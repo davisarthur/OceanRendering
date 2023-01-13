@@ -1,5 +1,9 @@
-# Final Project
-My project includes 4 demo programs that can be run. These files can be compiled automatically using the included make file.
+# Ocean Rendering
+
+In this project, I used OpenGL to render simulated ocean waves. To create the simulation, I followed the
+approach outlined by Jerry Tessendorf in 
+[_Simulating Ocean Water_](https://people.computing.clemson.edu/~jtessen/reports/papers_files/coursenotes2004.pdf).
+The project includes 4 demos which can be compiled automatically using the included make file.
 If you prefer, I listed manual compilation instructions below.
 
 ## Tiling
