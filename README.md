@@ -3,8 +3,9 @@
 In this project, I used OpenGL to render simulated ocean waves. To create the simulation, I followed the
 approach outlined by Jerry Tessendorf in 
 [_Simulating Ocean Water_](https://people.computing.clemson.edu/~jtessen/reports/papers_files/coursenotes2004.pdf).
-The project includes 4 demos which can be compiled automatically using the included make file.
-If you prefer, I listed manual compilation instructions below.
+A formal report of my progression through project is given in the PDF file included in the repo.
+The repo also includes 4 demos which can be compiled automatically using the included make file.
+If you prefer, I listed manual compilation instructions below. 
 
 ## Tiling
 The ```tiling.cpp``` program renders a large ocean scene by tiling water mesh data stored in a FBO.
